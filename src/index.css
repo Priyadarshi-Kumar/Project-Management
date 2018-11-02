@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Salesforce Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/SalesforceSans-Bold.ttf');
+    src: local('Salesforce Sans'), local('SalesforceSans'),
+       url('./fonts/SalesforceSans-Bold.ttf') format('ttf'),
+       url('./fonts/SalesforceSans-BoldItalic.ttf') format('ttf'),
+       url('./fonts/SalesforceSans-Book.ttf') format('ttf'),
+       url('./fonts/SalesforceSans-Italic.ttf') format('ttf'),
+       url('./fonts/SalesforceSans-Light.ttf') format('ttf'),
+       url('./fonts/SalesforceSans-LightItalic.ttf') format('ttf'),
+       url('./fonts/SalesforceSans-Regular.ttf') format('ttf'),
+       url('./fonts/SalesforceSans-Semibold.ttf') format('ttf'),
+       url('./fonts/SalesforceSans-Thin.ttf') format('ttf'),
+       url('./fonts/SalesforceSans-ThinItalic.ttf') format('ttf');
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Salesforce Sans;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
