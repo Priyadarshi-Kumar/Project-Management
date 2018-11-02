@@ -1,6 +1,4 @@
-#ABZCorp
-
-This application is developed for managing projects and project members. This app is a one page application developed using ReactJs. This project is a part of PricewaterhouseCoopers interns hiring program.
+This application is developed for managing projects and project members. This app is a one page application developed using ReactJs.
 
 ## Functionalities
 
@@ -19,5 +17,3 @@ This application is developed for managing projects and project members. This ap
   <li>CSS</li>
 </ol>
 
-### copyright
-Priyadarshi Kumar USN(2GI15CS111), KLS Gogte institute of Technology, Belagavi
