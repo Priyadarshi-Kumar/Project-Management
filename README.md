@@ -10,10 +10,4 @@ This application is developed for managing projects and project members. This ap
   <li> Add a new member to a Project.</li>
 <ol>
 
-## Technologies Used
-
-<ol>
-  <li>ReactJs</li>
-  <li>CSS</li>
-</ol>
 
