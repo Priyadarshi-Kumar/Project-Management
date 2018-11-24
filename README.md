@@ -9,7 +9,7 @@ This application is developed for managing projects and project members. This ap
   <li> Switching between online and offline members</li>
   <li> Search project members with in a project by Name</li>
   <li> Add a new member to a Project.</li>
-<ol>
+</ol>
 
 ## Dependencies
  <ol>
