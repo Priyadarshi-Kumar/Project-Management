@@ -13,7 +13,7 @@ This application is developed for managing projects and project members. This ap
 
 ## Deployment
 > Deployed using Heroku 
-visit: <a href="https://project-managementtool.herokuapp.com"></a>
+visit: <a href="https://project-managementtool.herokuapp.com">Visit here for live demo</a>
 
 ## Dependencies
  <ol>
