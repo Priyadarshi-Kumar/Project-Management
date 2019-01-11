@@ -11,6 +11,10 @@ This application is developed for managing projects and project members. This ap
   <li> Add a new member to a Project.</li>
 </ol>
 
+## Deployment
+> Deployed using Heroku 
+visit: <a href="https://project-managementtool.herokuapp.com"></a>
+
 ## Dependencies
  <ol>
     <li>escape-string-regexp</li>
